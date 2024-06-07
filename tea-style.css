@@ -1,0 +1,21 @@
+* {
+    background-color: #F9E7BB;
+    text-align: center;
+}
+
+img {
+    display: block;
+    border-radius: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+ul {padding-left: 0;}
+ul li {
+    list-style-position: inside;
+}
+
+ol {padding-left: 0;}
+ol li {
+    list-style-position: inside;
+}
